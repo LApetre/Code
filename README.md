@@ -1,2 +1,2 @@
 # Code
-This will code personal projects.
+This will contain personal projects.
